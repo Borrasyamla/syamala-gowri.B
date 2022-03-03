@@ -1,0 +1,9 @@
+Tuple1=["bhargavi","candy","vinay","pallavi"]  
+ ​Tuple2=["1","2","3","4","5","6"]  
+ ​Tuple3=Tupleq+Tuple2
+ ​print(Tuple3)  
+
+
+
+ ​Output  
+ ​['bhargavi','candy','vinay','pallavi','1','2','3','4','5','6',]
